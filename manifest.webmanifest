@@ -1,0 +1,20 @@
+{
+  "name": "VESPERA V7.2 — Adaptive Liquid Glass",
+  "short_name": "VESPERA",
+  "description": "VESPERA V7.2 with adaptive crystal glass, prayer times, adhkar and local-first productivity.",
+  "lang": "ar",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#07090f",
+  "theme_color": "#07090f",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
